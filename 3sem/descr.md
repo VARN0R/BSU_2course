@@ -1,4 +1,4 @@
 
 
 Part B. <br>
-The task is written in pdf. <br><br>
+The task is written in pdf. <br>

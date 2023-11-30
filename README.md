@@ -1,3 +1,2 @@
-
-My labs for Java. <br> 
-Part B.
+# BSU_2course
+hello
